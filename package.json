@@ -1,0 +1,19 @@
+{
+  "name": "tsof01",
+  "version": "1.0.0",
+  "description": "Repositório da aula inicial de Testes de Software - Backend",
+  "keywords": [
+    "Javascript",
+    "NodeJS",
+    "Testes",
+    "Jest"
+  ],
+  "license": "MIT",
+  "author": "Luiz Gabriel",
+  "type": "module",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
